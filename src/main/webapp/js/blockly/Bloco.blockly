@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><blockly formTarget="" resourceType="JS" ruleDescription="Bloco" ruleName="Bloco" ruleSynchronous="false" ruleTimeout="" ruleType="I">
+  <metadata scale="1" scrollx="487.40000000000055" scrolly="-56.5" target="Anb:u5+^,0vLkL9QIqn5"/>
+  <block colour="#995ba5" id="Anb:u5+^,0vLkL9QIqn5" origintype="procedures_defreturn" output="false" tooltip="Cria uma função que possui um valor de retorno." type="procedures_defreturn" x="-350" y="130">
+    <field name="NAME">Executar</field>
+    <comment h="80" pinned="false" w="160">Bloco</comment>
+    <value name="RETURN">
+      <block colour="#487f7f" dependencyby="Anb:u5+^,0vLkL9QIqn5" id="IY!4yYntX;9Smeb|]k{!" multilayer="false" namespace="cronapi.util.getSessionStorage" origintype="procedures_callreturn" output="true" returntype="ObjectType.OBJECT" tooltip="%3Cdiv%20class=%22name%22%3E%3Cstrong%3ENome:%3C/strong%3E%3Cdiv%3EObter%20Item%20da%20Sess%C3%A3o%20da%20Aba%3C/div%3E%3C/div%3E%3Cdiv%20class=%22description%22%3E%3Cstrong%3EDescri%C3%A7%C3%A3o:%3C/strong%3E%3Cdiv%3EFun%C3%A7%C3%A3o%20que%20obt%C3%A9m%20um%20item%20da%20sess%C3%A3o%20da%20aba.%20Esse%20Item%20%C3%A9%20limpo%20ao%20fechar%20o%20navegador%20e%20%C3%A9%20vis%C3%ADvel%20apenas%20na%20aba%20em%20que%20for%20criado%3C/div%3E%3C/div%3E%3Cdiv%20class=%22params%22%3E%3Cstrong%3EParam%C3%AAtro:%3C/strong%3E%3Cdiv%3E%3Cspan%3E%20-%20Chave%20:%20Texto%3C/span%3E%3Cbr%3E%3C/div%3E%3C/div%3E%3Cdiv%20class=%22return%22%3E%3Cstrong%3ERetorno:%3C/strong%3E%3Cdiv%3E%3Cspan%3E%20-%20Objeto%3C/span%3E%3C/div%3E%3C/div%3E%3Cdiv%20class=%22link%22%3E%3Cstrong%3EAjuda:%3C/strong%3E%3Cdiv%20class=%22tooltip-link%22%3E%3Ca%20target=%22_blank%22%20href=%22https://docs.cronapp.io/display/CRON2/cronapi.util.getSessionStorage%22%3Ehttps://docs.cronapp.io/display/CRON2/cronapi.util.getSessionStorage%3C/a%3E%3C/div%3E%3C/div%3E" type="procedures_callreturn">
+        <mutation name="{{cronapi.util.getSessionStorage}}" return-raw-type="undefined">
+          <arg cronapi-raw-type="undefined" cronapi-type="ObjectType.STRING" name="Chave"/>
+        </mutation>
+        <value name="ARG0">
+          <shadow colour="#5ba593" dependencyby="Anb:u5+^,0vLkL9QIqn5" id="|jXWxkz[/q!x0N4a=)9p" origintype="text" output="true" tooltip="function () { [native code] }" type="text">
+            <field name="TEXT">rwetrtjhg</field>
+          </shadow>
+        </value>
+      </block>
+    </value>
+  </block>
+</blockly>
